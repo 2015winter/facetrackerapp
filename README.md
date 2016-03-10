@@ -27,4 +27,4 @@ Available free for non-commercial use, and may be redistributed under these cond
 
 
 ~~~~~~~~~~~~~~~~Attention~~~~~~~~~~~~~~~~
-there are only part of functions by author <br Kyle McDonald>, which implement track face, Thanks for the author.I want to add 3d object by OpenGL ES soon.
+there are only part of functions by author [Kyle McDonald](http://kylemcdonald.net/), which implement track face, Thanks for the author.I want to add 3d object by OpenGL ES soon.
