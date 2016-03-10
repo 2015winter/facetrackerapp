@@ -26,5 +26,5 @@ Find it at native-activity/bin/FaceTrackerJS.apk
 Available free for non-commercial use, and may be redistributed under these conditions. Please see license.md for complete details. For commercial use, [request a quote](http://facetracker.net/quote/).
 
 
-~~~~~~~~~~~~~~~~Attention~~~~~~~~~~~~~~~~
+##Attention
 there are only part of functions by author [Kyle McDonald](http://kylemcdonald.net/), which implement track face, Thanks for the author.I want to add 3d object by OpenGL ES soon.
